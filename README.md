@@ -2,7 +2,7 @@
 <h1 align="center">Software Developer</h1>
 <h3 align="left">🎯 I’m looking to collaborate on software development projects.</h3>
 
-🩷 How to reach me: **keskinbnur@gmail.com**
+✉️ How to reach me: **keskinbnur@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
