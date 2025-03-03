@@ -1,4 +1,4 @@
-![Header Image](https://github.com/byzakeskin/byzakeskin/blob/main/unity.PNG)
+![Header Image](https://github.com/byzakeskin/byzakeskin/blob/main/banner.PNG)
 <h1 align="center">Software Developer</h1>
 <h3 align="left">🎯 I’m looking to collaborate on software development projects.</h3>
 
