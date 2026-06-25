@@ -1,4 +1,4 @@
-<h1 align="center">Software Developer</h1>
+<h1 align="center">Computer Engineer</h1>
 <h3 align="left">🎯 I’m looking to collaborate on software development projects.</h3>
 
 ✉️ How to contact with me: **keskinbnur@gmail.com** or **https://beyzanurkeskin.gt.tc/**
